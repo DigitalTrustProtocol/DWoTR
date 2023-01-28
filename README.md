@@ -5,6 +5,7 @@ Decentralized digital reputation for smart contract security and new products wi
 Index
 -----
 [Description](/Description.md)  
+What is it, and used for
 
 [Problem](/Problem.md)  
 Smart contract security
