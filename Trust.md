@@ -10,6 +10,8 @@ One key advantage of using a decentralized web of trust network is that it can b
 
 The DWoTR system is comprised of various components, using a blockchain, a graph database, a browser, and API services, which work together to facilitate communication, aggregation, and analysis of trust and reputation data.
 
+This document will describe the fundamental philosophical perspectives in the DWoTR system.
+
 Trust
 -----
 
