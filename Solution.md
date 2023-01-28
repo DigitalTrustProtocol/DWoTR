@@ -44,6 +44,3 @@ Conclusion
 Overall, the decentralized web of trust reputation system offers a promising solution to the problem of unaudited and potentially vulnerable smart contracts. By providing a platform for auditors and checking tools to register their claims, and allowing users to access and utilize this information through browser or API calls, the DWoTR system can help to build trust and confidence in the blockchain ecosystem.
 The ability of the DWoTR system to enable users to leverage multiple degrees of trusted people is a significant advantage in terms of building trust and confidence in the blockchain ecosystem. By allowing users to build their own personal networks of trust, the DWoTR system can help to mitigate the risks posed by unaudited and potentially vulnerable smart contracts.
 The incentives provided by the DWoTR system encourage auditors and others to record their findings and contribute to the network, which helps to build trust and confidence in the blockchain ecosystem. By providing these incentives, the DWoTR system can help to create a more secure and transparent environment for all users.
-
-
-[Overview](https://github.com/DigitalTrustProtocol/Business)
