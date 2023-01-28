@@ -11,5 +11,3 @@ Finally, the DWoTR system provides both a browser interface and an API for query
 
 Overall, the technical implementation of the decentralized web of trust reputation system is designed to provide users with a simple and effective way to verify the security and legitimacy of smart contracts. By leveraging the infrastructure of a smart contract blockchain and utilizing a graph database and user-friendly interfaces, the DWoTR system can help to build trust and confidence in the blockchain ecosystem.
 
-
-[Overview](https://github.com/DigitalTrustProtocol/Business)
