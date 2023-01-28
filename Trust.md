@@ -286,4 +286,4 @@ There are several reasons why recording trust in digital form can enable people 
 
 Overall, a decentralized web of trust reputation system can help individuals filter information and make decisions based on their own trusted network, which can lead to increased personalization, transparency, security, and autonomy. Recording trust in digital form can enable people to automatically check information against their own network by providing easier access to accurate and up-to-date information, enhanced security, and the ability to automate the trust-checking process.
 
-[Overview](https://github.com/DigitalTrustProtocol/Business)
+[Overview](https://github.com/DigitalTrustProtocol/DWoTR)
