@@ -35,6 +35,3 @@ Conclusion
 In conclusion, while blockchains and smart contracts offer significant potential, it is crucial to be aware of the risks associated with their use. The issue of inadequate skills and knowledge among users, as well as the lack of time and awareness, contributes to the vulnerabilities of smart contracts and the broader blockchain ecosystem. 
 
 It is clear that there is a need for resources and tools that can help users, particularly those with limited technical expertise, to more easily and effectively audit and verify smart contracts. By addressing these issues, we can work towards a more secure and trustworthy environment for all users.
-
-
-[Overview](https://github.com/DigitalTrustProtocol/Business)
