@@ -81,7 +81,11 @@ Overall, identifiers are an important aspect of identity, and when combined with
 Identity Context
 ----------------
 
-People and entities can have multiple identities, each of which is typically only applicable in certain contexts. For example, a person's online identity may not be accepted when applying for a loan at a local bank, as the bank only trusts government-issued identification. In today's digital age, many online platforms require an identity to access their services, but these platforms often do not share a common identity provider. This can lead to the need to manage multiple identities and even reputation across various platforms. Additionally, there is currently no standard way to establish trust and communicate credentials across multiple systems and platforms.
+People and entities often have multiple identities that are only applicable in certain contexts. For example, a person's online identity may not be accepted at a local bank when applying for a loan, as the bank only trusts government-issued identification. In today's digital age, many online platforms require an identity to access their services, but these platforms often do not share a common identity provider.
+
+This can lead to the need to manage multiple identities and even reputation across various platforms. Additionally, there is currently no standard way to establish trust and communicate credentials across multiple systems and platforms. This creates a challenge for individuals and organizations that need to prove their identity and reputation in different contexts.
+
+To solve this problem, there is a need for a unified system that allows people and entities to establish trust and communicate credentials across multiple systems and platforms. This system would need to be secure, private, and easy to use, and would need to support various forms of identity verification, including government-issued identification, biometrics, and digital credentials. Such a system would enable people and entities to easily prove their identity and reputation in different contexts, making it easier for them to access services and opportunities.
 
 
 Trust is gained through Effort and Time
