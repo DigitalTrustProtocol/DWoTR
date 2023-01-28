@@ -221,7 +221,7 @@ Overall, the combination of the network effect and the concept of trust could le
 
 The Churn Effect
 ----------------
-The churn effect refers to the rate at which users leave a product or service over time. In the context of the Decentralized Web of Trust Reputation (DWoTR) system, churn could be driven by a variety of factors. For example, if users are not satisfied with the services provided by the DWoTR system, they may be more likely to leave and seek out alternative solutions. Similarly, if users feel that the benefits of using the DWoTR system are not sufficient to justify the costs or effort required, they may be more likely to churn.
+The churn effect refers to the rate at which users leave a product or service over time. In the context of the DWoTR system, churn could be driven by a variety of factors. For example, if users are not satisfied with the services provided by the DWoTR system, they may be more likely to leave and seek out alternative solutions. Similarly, if users feel that the benefits of using the DWoTR system are not sufficient to justify the costs or effort required, they may be more likely to churn.
 
 The churn effect can have negative impacts on the DWoTR system in several ways. First, a high churn rate could lead to a decline in the number of users on the platform, which could in turn reduce the overall value of the DWoTR system. This could make it more difficult for the system to achieve a critical mass of users and reach the point where the network effect becomes strong. Second, a high churn rate could lead to a decline in the number of trust relationships within the DWoTR system, as users leave and their connections are lost. This could reduce the overall level of trust within the system, making it less useful and valuable for users.
 
@@ -252,7 +252,7 @@ Overall, digital recording of trust allows individuals to more easily and effici
 
 Contradicting DWoTR
 -------------------
-One example that contradicts the dominant narrative of the Decentralized Web of Trust Reputation (DWoTR) system is the issue of centralization. While the DWoTR system aims to be decentralized, it is still dependent on the use of a blockchain, which may be controlled by a small group of individuals or organizations. This could lead to centralization of power and influence within the system, despite its intended decentralized nature.
+One example that contradicts the dominant narrative of the DWoTR system is the issue of centralization. While the DWoTR system aims to be decentralized, it is still dependent on the use of a blockchain, which may be controlled by a small group of individuals or organizations. This could lead to centralization of power and influence within the system, despite its intended decentralized nature.
 
 Another example is the issue of subjectivity and bias. While the DWoTR system aims to provide a objective assessment of trust and reputation, it is still dependent on the subjective opinions and claims of the people using it. This could lead to issues of bias or manipulation, especially if certain individuals or groups have disproportionate influence within the system.
 
@@ -290,4 +290,3 @@ There are several reasons why recording trust in digital form can enable people 
 
 Overall, a decentralized web of trust reputation system can help individuals filter information and make decisions based on their own trusted network, which can lead to increased personalization, transparency, security, and autonomy. Recording trust in digital form can enable people to automatically check information against their own network by providing easier access to accurate and up-to-date information, enhanced security, and the ability to automate the trust-checking process.
 
-[Overview](https://github.com/DigitalTrustProtocol/DWoTR)
