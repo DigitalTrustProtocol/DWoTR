@@ -8,8 +8,7 @@ A Decentralized Web of Trust Reputation system is a network that allows individu
 
 One key advantage of using a decentralized web of trust network is that it can be resistant to manipulation and censorship. Because the trust relationships are established directly between individuals, rather than being mediated by a central authority, it is more difficult for any one entity to manipulate or censor the trust relationships within the network. This can make it more difficult for bad actors to gain undeserved trust or to undermine the trust of others, and can help to ensure that the trust relationships within the network are more accurate and reliable.
 
-**Digital Trust Protocol (DTP)**  
-The Digital Trust Protocol (DTP) serves as the foundation for the Decentralized Web of Trust Reputation (DWoTR) system. It defines the format and rules for communication within the DWoTR system, establishing a standard for trust and reputation claims that can be used across the industry. The DTP specifies the types of claims that can be made, as well as the processes for verifying and validating these claims, helping to ensure that the data within the DWoTR system is reliable and consistent. The DWoTR system itself is comprised of various components, including a blockchain, a graph database, a browser, and API services, which work together to facilitate communication, aggregation, and analysis of trust and reputation data. The DTP serves as the underlying protocol for these components, enabling them to function effectively and provide users with access to valuable information about trust and reputation within the crypto community.
+The DWoTR system is comprised of various components, using a blockchain, a graph database, a browser, and API services, which work together to facilitate communication, aggregation, and analysis of trust and reputation data.
 
 Trust
 -----
