@@ -1,5 +1,5 @@
-A Nostr spec for WOT
-===================
+NIP-XX
+======
 
 Decentralized Web of Trust Reputation System
 --------------------------------------------
