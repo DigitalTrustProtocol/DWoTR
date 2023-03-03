@@ -12,7 +12,7 @@ https://github.com/nostr-protocol/nips
 Work in progress.
 
 
-Modivation
+Motivation
 ----------
 
 
